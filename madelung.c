@@ -1,7 +1,7 @@
 /****************************************
 *kompileren mit 
 *gcc -Wall -pedantic madelung.c -o madelung -lm
-
+ 
 *aufruf mit
 *./madelung
 *******************************************/
